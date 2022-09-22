@@ -1,0 +1,16 @@
+Let's make a game!
+  name:Beagle Clicker
+
+Resources
+  *beagle
+    name:Beagle
+    desc:A cute Beagle.
+
+Upgrades
+  *puppies
+    name:Puppies
+    desc:Unlocks the ability to have Puppies!
+    
+  *breeder
+    name:Cherry pie recipe
+    desc:Boy, you'll never guess!
